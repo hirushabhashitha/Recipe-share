@@ -338,17 +338,3 @@ npm run test:e2e
 ```
 
 ---
-
-## 👥 Contributors & Commit Workflow
-
-This project is collaboratively developed on the `dev` branch by:
-
-| Developer | Name | GitHub Username | Email |
-|---|---|---|---|
-| **Lead Developer 1** | Gajindu Yashmika | [`gajinduyashmika`](https://github.com/gajinduyashmika) | `yashmika6969@gmail.com` |
-| **Lead Developer 2** | Chamini Amanda | [`chaminiamanda`](https://github.com/chaminiamanda) | `chaminiamanda7@gmail.com` |
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
